@@ -1,4 +1,4 @@
-<H1 align="center">Hyper Launcher</H1>
+<H1 align="center">Nexus Launcher v2</H1>
 
 
 <p align="center">
